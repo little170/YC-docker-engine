@@ -7,9 +7,6 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
-    "runtime"
-
-    "github.com/sirupsen/logrus"
 
 	"github.com/docker/docker/api/server/httputils"
 	"github.com/docker/docker/api/types"

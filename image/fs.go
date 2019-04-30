@@ -6,7 +6,6 @@ import (
 	"os"
 	"path/filepath"
 	"sync"
-    "runtime"
 
 	"github.com/docker/docker/pkg/ioutils"
 	"github.com/opencontainers/go-digest"

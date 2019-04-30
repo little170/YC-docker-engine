@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"sync"
 	"time"
-    "runtime"
 
 	"github.com/docker/distribution/digestset"
 	"github.com/docker/docker/layer"
