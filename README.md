@@ -26,5 +26,5 @@ sudo bundles/binary-daemon/dockerd
 docker rmi <image:tag>
 ```
 
-8. you modify the num of layer you want to delete 
+8. you can modify the num of layer you want to delete 
 simply modify the num in "delete_layer_num"
