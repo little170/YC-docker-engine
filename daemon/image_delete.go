@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"strings"
 	"time"
-    "runtime"
 
 	"github.com/docker/distribution/reference"
 	"github.com/docker/docker/api/types"
@@ -14,7 +13,6 @@ import (
 	"github.com/docker/docker/pkg/stringid"
 	"github.com/docker/docker/pkg/system"
 	"github.com/pkg/errors"
-    "github.com/sirupsen/logrus"
 )
 
 type conflictType int
