@@ -1,4 +1,4 @@
-1. Modify from [Moby](https://github.com/moby/moby) project
+This YC-docker-engine is modified from [Moby](https://github.com/moby/moby) project
 2. You need to modify layer/layer_store.go line 440 to your own path
 3. Start the original docker engine
 ```
